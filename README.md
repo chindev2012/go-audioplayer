@@ -4,7 +4,7 @@
 ### Go-AudioPlayer now supports
 
 #### Play Media File .mp3 .wav .ogg .flac
-#### Play Pause Stop
+#### Play Pause
 #### Play previous Play Next
 #### Play cycle one / cycle in list / random in list
 #### Play Volume Down Mute Up
